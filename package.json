@@ -35,8 +35,7 @@
 	},
   "overrides": {
     "react": "^18.2.0",
-    "drizzle": "0.31.0",
-    
+    "drizzle": "0.31.0"
   },
 	"browserslist": {
 		"production": [
